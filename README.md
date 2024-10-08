@@ -20,6 +20,12 @@ The central repository for the Languages organization, serving as an all-in-one 
 | **SQL**          | [https://github.com/languagess/sql](https://github.com/languagess/sql) |
 
 
+## 📚 Frameworks Covered
+
+| Framework        | TBA                              |
+|------------------|------------------------------------------|
+| **TBA**       | [TBA](TBA) |
+
 ## 🚀 Getting Started
 
-To get started, explore the repositories for each language and follow the provided resources and projects.
+To get started, explore the repositories for each language/framework and follow the provided resources and projects.
